@@ -16,7 +16,8 @@ body {
   background: url('../images/image 150 by 150 (1).png') no-repeat;
   width: 150px;
   height: 150px;
-  margin: 10px 15px 10px 0;
+  margin: -6px 19px -1px -26px;;
+
 }
 
 .navbar-brand {
@@ -245,7 +246,7 @@ h3.menu-item-title {
     background: url('../images/image 150 by 150 (1).png') no-repeat;
     /*width: 100px;
     height: 100px;*/
-    margin: 5px 5px 5px 0;
+    margin: 5px 5px 5px -70px;
   }
   /* End Header */
 
