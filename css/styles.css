@@ -242,9 +242,9 @@ h3.menu-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
-    width: 100px;
-    height: 100px;
+    background: url('../images/image 150 by 150 (1).png') no-repeat;
+    /*width: 100px;
+    height: 100px;*/
     margin: 5px 5px 5px 0;
   }
   /* End Header */
